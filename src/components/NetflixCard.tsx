@@ -50,3 +50,4 @@ export const Footer = () => {
 
 // Default export of NetflixCard
 export default NetflixCard;
+
